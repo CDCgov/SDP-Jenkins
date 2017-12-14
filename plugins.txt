@@ -1,1 +1,2 @@
 blueocean:1.3.5
+slack:2.3
