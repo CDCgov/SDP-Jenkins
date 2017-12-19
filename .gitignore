@@ -1,4 +1,5 @@
 **/*.swp
 
 # These are commercial plugins and should not be committed to github.
-plugins/twistlock-jenkins-plugin.hpi
+# OK, when committed to MITRE gitlab server
+#plugins/twistlock-jenkins-plugin.hpi
