@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<io.fabric8.jenkins.openshiftsync.GlobalPluginConfiguration plugin="openshift-sync@1.0.2-SNAPSHOT">
+  <enabled>true</enabled>
+  <server></server>
+  <namespaces>
+    <string>testcicd</string>
+  </namespaces>
+  <jobNamePattern>.*</jobNamePattern>
+  <skipOrganizationPrefix>CDCgov</skipOrganizationPrefix>
+  <skipBranchSuffix>master</skipBranchSuffix>
+</io.fabric8.jenkins.openshiftsync.GlobalPluginConfiguration>

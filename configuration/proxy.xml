@@ -1,0 +1,7 @@
+<proxy>
+  <name>gatekeeper.mitre.org</name>
+  <port>80</port>
+  <noProxyHost>.mitre.org,.xip.io</noProxyHost>
+  <secretPassword>{AQAAABAAAAAQEjyHeHazZbGYd6TepkU6hNQbn86XqMGY/ovyx7B4DEU=}</secretPassword>
+  <testUrl>http://google.com</testUrl>
+</proxy>

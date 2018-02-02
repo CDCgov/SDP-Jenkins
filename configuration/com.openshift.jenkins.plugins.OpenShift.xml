@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.openshift.jenkins.plugins.OpenShift_-DescriptorImpl plugin="openshift-client@1.0.5">
+  <configVersion>1</configVersion>
+  <clusterConfigs>
+    <com.openshift.jenkins.plugins.ClusterConfig>
+      <name>default</name>
+      <serverUrl>https://kubernetes.default:443</serverUrl>
+      <serverCertificateAuthority>-----BEGIN CERTIFICATE-----
+MIIC6jCCAdKgAwIBAgIBATANBgkqhkiG9w0BAQsFADAmMSQwIgYDVQQDDBtvcGVu
+c2hpZnQtc2lnbmVyQDE0OTA4MTUzMjAwHhcNMTcwMzI5MTkyMTU5WhcNMjIwMzI4
+MTkyMjAwWjAmMSQwIgYDVQQDDBtvcGVuc2hpZnQtc2lnbmVyQDE0OTA4MTUzMjAw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDYsUjlRxX5tWs/BoDS629j
+pLW4nZg/TsyibsjciEfcuC0zHYmKfUvrxFnEHNmcVQ9ffYop+FkDeq7So9Nwnt/6
+eBu4MTjcTtJfE5pr7/APJ35e/7qDtjnbXNw9OBJyvt3i1VHxh+OHxLZ7kD0YVggh
+uVBr44sLD9h/8aNyEV2BpoKNQEnvsu0DFX/ql8K9RiUy6/A6WlsoUE8UKNsjpOXx
+m2+UEg71bdtkTxoIo8ruhslmpHE0hLTnIbSMmnNn8rdRNmcRq/WOmlidL3h1tKEv
+M729F5097UZRgauK5UMcfckZ/DP8+I7YP0LIDDA9svTXCUy8O2T0NNozToDSujPV
+AgMBAAGjIzAhMA4GA1UdDwEB/wQEAwICpDAPBgNVHRMBAf8EBTADAQH/MA0GCSqG
+SIb3DQEBCwUAA4IBAQDG/+QxAHt8+qlF6hm7BUu75UCpabKe153fcm/l1XBqd9Km
+em9YWkdP7301hTOYvnW2xTF9WAVoXKzHXSwGc2FpgZ+AtxmLQg/L3f1Mex51Nq5U
+CHhkUyCylY3cM/88bcwK9oWuE7HrIUbUxB1XKT0s7618sDqE9VR/WXAyC0PGkk6m
++gImBL+s74rrXWsApjXNkYj0aQf1zMRXljgolVZjR5h6GNCgLg70sOD90P7pazFR
+vPuiSKK4cfLa0EYG0R2sfS9GuToDhFyrGK45RcF53e3ebhIelTfFn5f+PXOvmU4v
+PU/T3Xo13KAKPBk/rmdy9BWGQfPSEghZtzeg102d
+-----END CERTIFICATE-----</serverCertificateAuthority>
+      <skipTlsVerify>false</skipTlsVerify>
+      <defaultProject>testcicd</defaultProject>
+      <credentialsId>jenkins-sa-token</credentialsId>
+    </com.openshift.jenkins.plugins.ClusterConfig>
+    <com.openshift.jenkins.plugins.ClusterConfig>
+      <name>demo</name>
+      <serverUrl>https://sdpmaster.phiresearchlab.org:8443</serverUrl>
+      <serverCertificateAuthority>-----BEGIN CERTIFICATE-----
+MIIC6jCCAdKgAwIBAgIBATANBgkqhkiG9w0BAQsFADAmMSQwIgYDVQQDDBtvcGVu
+c2hpZnQtc2lnbmVyQDE0ODM5ODMzMjYwHhcNMTcwMTA5MTczNTI2WhcNMjIwMTA4
+MTczNTI3WjAmMSQwIgYDVQQDDBtvcGVuc2hpZnQtc2lnbmVyQDE0ODM5ODMzMjYw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCvRi9Igf5l1fy931HieTRu
+gjM9HHmMHdtHFzLvvRcwFMLRC0jdRzmoCSfyYim3T0ZExKIRwTi0wcaFGpkYANaR
+eXBJL+JIY6ygHV6P/l2RL5SWa3WJ2ha4dSTanPj8l0+Ta5MO0OnhRNcY6scjC8mQ
+9r2RfZJi31C0dwpfUgw+G8B7Twm7buvfsX9YFjjaRyRI003/Z2IVX3Yn+ocSmctL
+VjZHVT6o+GAs5Ifzdrh3Ap6vb6j2SrVyLBS9FhrS89Z+LuGccK9FFE3x3dC9aBAY
+QhqDUr0Vsv9ZdKel86Z4Ehfz5IxR1s8xk43h8tYhTMhgGBYMUEQRmw+te8NNvTSj
+AgMBAAGjIzAhMA4GA1UdDwEB/wQEAwICpDAPBgNVHRMBAf8EBTADAQH/MA0GCSqG
+SIb3DQEBCwUAA4IBAQBCSeRvdKOYXR4ZUI1JcrWHZYkIuZJnuLvF6D+IuVA0Y942
+/6fj1Cy5hVmbHq3g9h3A/r0trDfQ/3KLoggS7+yvxPtUqUHDFTatcYJ/naODXtoC
+DPnCJATj+W+37tOpDQpd+E0/mxRliQbEtWC4d9OaMWYg6+GB55JUXL3V9QCJZ8gB
+4UYpXnHvF6jK8C4DfT8jgCcJeB4NzCajfGE5Kl09cHEG87DR4eajfDopx/4mntke
+brbOSXD3wF30rOh7X0MPXd39s/BEFLS+AT5XUQCf1LChpH4LrwCbgjNhh6+VP3ia
+YPA6dZSW40KZ8Fda2xKqZ6fTcbsJFc5kqmBTGpps
+-----END CERTIFICATE-----</serverCertificateAuthority>
+      <skipTlsVerify>false</skipTlsVerify>
+      <defaultProject>cicd</defaultProject>
+      <credentialsId>jenkins-demo-sa-token</credentialsId>
+    </com.openshift.jenkins.plugins.ClusterConfig>
+  </clusterConfigs>
+  <ocTool>oc</ocTool>
+</com.openshift.jenkins.plugins.OpenShift_-DescriptorImpl>

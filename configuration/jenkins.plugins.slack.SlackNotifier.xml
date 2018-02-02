@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<jenkins.plugins.slack.SlackNotifier_-DescriptorImpl plugin="slack@2.3">
+  <baseUrl>https://mitrecorp.slack.com/services/hooks/jenkins-ci/</baseUrl>
+  <teamDomain>mitrecorp</teamDomain>
+  <token></token>
+  <tokenCredentialId></tokenCredentialId>
+  <botUser>true</botUser>
+  <room>cdcplatform</room>
+</jenkins.plugins.slack.SlackNotifier_-DescriptorImpl>
