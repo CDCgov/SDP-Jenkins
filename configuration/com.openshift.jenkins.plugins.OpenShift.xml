@@ -24,7 +24,7 @@ vPuiSKK4cfLa0EYG0R2sfS9GuToDhFyrGK45RcF53e3ebhIelTfFn5f+PXOvmU4v
 PU/T3Xo13KAKPBk/rmdy9BWGQfPSEghZtzeg102d
 -----END CERTIFICATE-----</serverCertificateAuthority>
       <skipTlsVerify>false</skipTlsVerify>
-      <defaultProject>testcicd</defaultProject>
+      <defaultProject>cicd</defaultProject>
       <credentialsId>jenkins-sa-token</credentialsId>
     </com.openshift.jenkins.plugins.ClusterConfig>
     <com.openshift.jenkins.plugins.ClusterConfig>
