@@ -5,7 +5,7 @@
   <namespaces>
     <string>cicd</string>
   </namespaces>
-  <jobNamePattern>.*</jobNamePattern>
+  <jobNamePattern></jobNamePattern>
   <skipOrganizationPrefix>CDCgov</skipOrganizationPrefix>
   <skipBranchSuffix>master</skipBranchSuffix>
 </io.fabric8.jenkins.openshiftsync.GlobalPluginConfiguration>
