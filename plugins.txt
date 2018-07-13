@@ -10,6 +10,7 @@ cloudbees-folder:6.1.2
 credentials:2.1.16
 credentials-binding:1.15
 dashboard-view:2.9.11
+email-ext:2.62
 git:3.7.0
 git-client:2.7.1
 github:1.29.0
