@@ -3,7 +3,7 @@
   <baseUrl>https://mitrecorp.slack.com/services/hooks/jenkins-ci/</baseUrl>
   <teamDomain>mitrecorp</teamDomain>
   <token></token>
-  <tokenCredentialId></tokenCredentialId>
+  <tokenCredentialId>sdp-slack-jenkinsapp-token</tokenCredentialId>
   <botUser>true</botUser>
-  <room>cdcplatform</room>
+  <room>cdcsdp</room>
 </jenkins.plugins.slack.SlackNotifier_-DescriptorImpl>
