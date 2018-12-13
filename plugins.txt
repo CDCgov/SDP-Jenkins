@@ -6,10 +6,13 @@ blueocean-rest:1.5.4
 blueocean-rest-impl:1.5.4
 brakeman:0.12
 branch-api:2.0.20
+checkstyle:3.50
 conditional-buildstep:1.3.6
 cloudbees-folder:6.5.1
 credentials:2.1.18
 credentials-binding:1.17
+cucumber-reports:4.2.2
+cucumber-testresult-plugin:0.10.1
 dashboard-view:2.10
 email-ext:2.63
 git:3.9.1
