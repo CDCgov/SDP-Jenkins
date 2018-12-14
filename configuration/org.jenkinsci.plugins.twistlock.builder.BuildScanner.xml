@@ -2,5 +2,5 @@
 <org.jenkinsci.plugins.twistlock.builder.BuildScannerDescriptor plugin="twistlock-jenkins-plugin@2_2_100">
   <address>https://console-twistlock.129.83.185.216.xip.io</address>
   <username>jenkins</username>
-  <password>Jenkins_twistlock</password>
+  <password>Jenkins_Pa33w0rd</password>
 </org.jenkinsci.plugins.twistlock.builder.BuildScannerDescriptor>
