@@ -1,6 +1,6 @@
 <proxy>
   <name></name>
-  <port></port>
+  <port>80</port>
   <noProxyHost></noProxyHost>
   <secretPassword></secretPassword>
   <testUrl>http://google.com</testUrl>
