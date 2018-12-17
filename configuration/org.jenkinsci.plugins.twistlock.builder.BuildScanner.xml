@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.jenkinsci.plugins.twistlock.builder.BuildScannerDescriptor plugin="twistlock-jenkins-plugin@2_2_100">
+  <address>https://console-twistlock.services-dev.cdc.gov</address>
+  <username>jenkins</username>
+  <password>Jenkins_Pa33w0rd</password>
+</org.jenkinsci.plugins.twistlock.builder.BuildScannerDescriptor>

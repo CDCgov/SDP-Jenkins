@@ -1,0 +1,7 @@
+<proxy>
+  <name></name>
+  <port></port>
+  <noProxyHost></noProxyHost>
+  <secretPassword></secretPassword>
+  <testUrl>http://google.com</testUrl>
+</proxy>
