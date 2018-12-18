@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<com.openshift.jenkins.plugins.OpenShift_-DescriptorImpl plugin="openshift-client@1.0.5">
+<com.openshift.jenkins.plugins.OpenShift_-DescriptorImpl plugin="openshift-client@1.0.22">
   <configVersion>1</configVersion>
   <clusterConfigs>
     <com.openshift.jenkins.plugins.ClusterConfig>
