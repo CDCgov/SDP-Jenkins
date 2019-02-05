@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.sonar.SonarGlobalConfiguration plugin="sonar@2.8.1">
+  <installations>
+    <hudson.plugins.sonar.SonarInstallation>
+      <name>SDP</name>
+      <serverUrl>http://sonarqube-cicd.129.83.185.216.xip.io</serverUrl>
+      <serverAuthenticationToken>{AQAAABAAAAAwC6mbLR67chKv8Agv7+F0J38WFDA84qI59AJOGxwk7rUUCUqb7+d3XnljRUP4LBGmdiVKSLWKXCaGOw2ApuWt5A==}</serverAuthenticationToken>
+      <mojoVersion></mojoVersion>
+      <additionalProperties></additionalProperties>
+      <additionalAnalysisProperties></additionalAnalysisProperties>
+      <triggers>
+        <skipScmCause>false</skipScmCause>
+        <skipUpstreamCause>false</skipUpstreamCause>
+        <envVar></envVar>
+      </triggers>
+    </hudson.plugins.sonar.SonarInstallation>
+  </installations>
+  <buildWrapperEnabled>true</buildWrapperEnabled>
+  <dataMigrated>true</dataMigrated>
+</hudson.plugins.sonar.SonarGlobalConfiguration>
