@@ -19,8 +19,8 @@
             <com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl plugin="credentials@2.1.18">
               <id>cdc_github_builds</id>
               <description>GitHub access token for SDP builds</description>
-              <username>ttaylor249</username>
-              <password>{AQAAABAAAAAwi/EmkljnbqjiWEpZ3y3ihEZlnJh518IVBXufY1iU33qKF2rpt1epLBU8jojAt63Dbw4QtNFipU9PscMCIxhHzg==}</password>
+              <username>cssandlin</username>
+              <password>{e07aa08bbbf528977bd9b3566cf97326043ff245}</password>
             </com.cloudbees.plugins.credentials.impl.UsernamePasswordCredentialsImpl>
           </java.util.concurrent.CopyOnWriteArrayList>
         </entry>
